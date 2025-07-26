@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/research-hub/static/css/main.303d784d.css",
+    "main.js": "/research-hub/static/js/main.4e570e6f.js",
+    "index.html": "/research-hub/index.html",
+    "main.303d784d.css.map": "/research-hub/static/css/main.303d784d.css.map",
+    "main.4e570e6f.js.map": "/research-hub/static/js/main.4e570e6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.303d784d.css",
+    "static/js/main.4e570e6f.js"
+  ]
+}
