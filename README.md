@@ -1,6 +1,8 @@
 # Research Hub
 
+
 A modern blogging website built with Create React App. It showcases curated research topics with links to detailed GitHub Wiki articles.
+
 
 ## Development
 
@@ -12,6 +14,7 @@ A modern blogging website built with Create React App. It showcases curated rese
    ```bash
    npm start
    ```
+
 3. Build the project:
    ```bash
    npm run build
@@ -23,3 +26,4 @@ A modern blogging website built with Create React App. It showcases curated rese
 
 The site uses React, Tailwind CSS, and React Router. Blog data is defined in `src/pages/Home.jsx`.
 Tailwind CSS is compiled via PostCSS using the configuration in `postcss.config.js`.
+
