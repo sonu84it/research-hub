@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "A modern blogging site and research wiki to publish AI-driven insights and deep research outputs.",
-  "homepage": "https://yourusername.github.io",
+  "homepage": "https://yourusername.github.io/research-hub",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
