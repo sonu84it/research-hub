@@ -4,20 +4,20 @@ const posts = [
   {
     title: 'AI Regulations: US, EU, China',
     summary: 'Comparative analysis of AI laws and policies across major regions.',
-    wikiUrl: 'https://github.com/yourusername/yourrepo/wiki/AI-Regulations-US-EU-China',
-    imageUrl: 'https://source.unsplash.com/800x600/?law,ai'
+    wikiUrl: 'https://chatgpt.com/s/dr_6886059934e8819197ba14a82ff994bb',
+    imageUrl: `${process.env.PUBLIC_URL}/images/Global_AI_Regulation.png`
   },
   {
     title: 'EV Battery Tech: Tesla vs Rivian vs BYD',
     summary: 'Deep dive into EV battery innovations and roadmaps for 2025–2030.',
-    wikiUrl: 'https://github.com/yourusername/yourrepo/wiki/EV-Battery-Comparison',
-    imageUrl: 'https://source.unsplash.com/800x600/?battery,ev'
+    wikiUrl: 'https://chatgpt.com/s/dr_688601a9ca988191882349e4307adb37',
+    imageUrl: `${process.env.PUBLIC_URL}/images/EV_Battery_Tech.png`
   },
   {
     title: 'Fintech in India & Southeast Asia (2025 Outlook)',
     summary: 'User adoption, regulations, and top players in fintech growth.',
-    wikiUrl: 'https://github.com/yourusername/yourrepo/wiki/Fintech-India-SEA-2025',
-    imageUrl: 'https://source.unsplash.com/800x600/?fintech'
+    wikiUrl: 'https://chatgpt.com/s/dr_68860b53b6cc819190788e51c80814ab',
+    imageUrl: `${process.env.PUBLIC_URL}/images/Fintech_Output_2025.png`
   },
   {
     title: 'Remote Work Productivity: Global Study',
