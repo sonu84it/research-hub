@@ -5,21 +5,21 @@ const posts = [
     title: 'AI Regulations: US, EU, China',
     summary: 'Comparative analysis of AI laws and policies across major regions.',
     wikiUrl: 'https://chatgpt.com/s/dr_6886059934e8819197ba14a82ff994bb',
-    podcastUrl: 'https://chatgpt.com/s/dr_6886059934e8819197ba14a82ff994bb',
+    podcastUrl: 'https://notebooklm.google.com/notebook/0a4daa9d-36ca-4d24-99f4-039cac3f706a',
     imageUrl: `${process.env.PUBLIC_URL}/images/Global_AI_Regulation.png`
   },
   {
     title: 'EV Battery Tech: Tesla vs Rivian vs BYD',
     summary: 'Deep dive into EV battery innovations and roadmaps for 2025–2030.',
     wikiUrl: 'https://chatgpt.com/s/dr_688601a9ca988191882349e4307adb37',
-    podcastUrl: 'https://chatgpt.com/s/dr_688601a9ca988191882349e4307adb37',
+    podcastUrl: 'https://notebooklm.google.com/notebook/56a1284c-cde5-4e8b-8f2d-fdbce07f8a51',
     imageUrl: `${process.env.PUBLIC_URL}/images/EV_Battery_Tech.png`
   },
   {
     title: 'Fintech in India & Southeast Asia (2025 Outlook)',
     summary: 'User adoption, regulations, and top players in fintech growth.',
     wikiUrl: 'https://chatgpt.com/s/dr_68860b53b6cc819190788e51c80814ab',
-    podcastUrl: 'https://chatgpt.com/s/dr_68860b53b6cc819190788e51c80814ab',
+    podcastUrl: 'https://notebooklm.google.com/notebook/021034af-bdfd-43cf-89c6-be36554d5d5a',
     imageUrl: `${process.env.PUBLIC_URL}/images/Fintech_Output_2025.png`
   },
   {
