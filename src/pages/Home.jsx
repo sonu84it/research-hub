@@ -25,51 +25,16 @@ const posts = [
   {
     title: 'Remote Work Productivity: Global Study',
     summary: 'Impact of remote work since 2020: employee wellbeing & business results.',
-    wikiUrl: 'https://github.com/yourusername/yourrepo/wiki/Remote-Work-Productivity',
-    podcastUrl: 'https://github.com/yourusername/yourrepo/wiki/Remote-Work-Productivity',
-    imageUrl: 'https://source.unsplash.com/800x600/?remote-work'
+    wikiUrl: 'https://chatgpt.com/s/dr_6886223c28f08191b16601118e303a13',
+    podcastUrl: 'https://notebooklm.google.com/notebook/2f1abc7a-55bc-45fc-9fa8-05227d4c1e83',
+    imageUrl: `${process.env.PUBLIC_URL}/images/Remote_Work_Productivity.png`
   },
   {
-    title: 'South China Sea Disputes: 1950–2025 Timeline',
-    summary: 'A geopolitical timeline of key events, claims, and rulings.',
-    wikiUrl: 'https://github.com/yourusername/yourrepo/wiki/South-China-Sea-Disputes',
-    podcastUrl: 'https://github.com/yourusername/yourrepo/wiki/South-China-Sea-Disputes',
-    imageUrl: 'https://source.unsplash.com/800x600/?geopolitics'
-  },
-  {
-    title: 'COVID-19 Vaccines vs Variants (Post-2024)',
-    summary: 'Analysis of vaccine efficacy against emerging variants.',
-    wikiUrl: 'https://github.com/yourusername/yourrepo/wiki/COVID19-Vaccine-Efficacy',
-    podcastUrl: 'https://github.com/yourusername/yourrepo/wiki/COVID19-Vaccine-Efficacy',
-    imageUrl: 'https://source.unsplash.com/800x600/?vaccine'
-  },
-  {
-    title: 'AI in Product Management',
-    summary: 'How AI agents automate tasks and augment decision making.',
-    wikiUrl: 'https://github.com/yourusername/yourrepo/wiki/AI-in-Product-Management',
-    podcastUrl: 'https://github.com/yourusername/yourrepo/wiki/AI-in-Product-Management',
-    imageUrl: 'https://source.unsplash.com/800x600/?ai,product'
-  },
-  {
-    title: 'Sand House Building: Sustainable Architecture',
-    summary: 'Story of building a sand house over 6 months using humanoid robotics.',
-    wikiUrl: 'https://github.com/yourusername/yourrepo/wiki/Sand-House-Building',
-    podcastUrl: 'https://github.com/yourusername/yourrepo/wiki/Sand-House-Building',
-    imageUrl: 'https://source.unsplash.com/800x600/?architecture'
-  },
-  {
-    title: 'Shredder ASMR: Top 5 Satisfying Crushes',
-    summary: 'Compilation of unique items shredded for ASMR effect.',
-    wikiUrl: 'https://github.com/yourusername/yourrepo/wiki/ASMR-Shredder-Crushes',
-    podcastUrl: 'https://github.com/yourusername/yourrepo/wiki/ASMR-Shredder-Crushes',
-    imageUrl: 'https://source.unsplash.com/800x600/?asmr'
-  },
-  {
-    title: 'Mars Rover Race: Tour de Mars',
+    title: 'Emerging Renewable Energy Technologies',
     summary: 'A futuristic race across Mars using AI-powered rovers.',
-    wikiUrl: 'https://github.com/yourusername/yourrepo/wiki/Tour-de-Mars',
-    podcastUrl: 'https://github.com/yourusername/yourrepo/wiki/Tour-de-Mars',
-    imageUrl: 'https://source.unsplash.com/800x600/?mars,rover'
+    wikiUrl: 'https://chatgpt.com/s/dr_688622fd98208191bbb9549e0342fa30',
+    podcastUrl: 'https://notebooklm.google.com/notebook/ec1322ea-a0cf-4c7a-b37d-8b1ded99b75c',
+    imageUrl: `${process.env.PUBLIC_URL}/images/Renewable_Energy.png`
   }
 ];
 
