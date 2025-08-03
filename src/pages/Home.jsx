@@ -35,6 +35,13 @@ const posts = [
     wikiUrl: 'https://chatgpt.com/s/dr_688622fd98208191bbb9549e0342fa30',
     podcastUrl: 'https://notebooklm.google.com/notebook/ec1322ea-a0cf-4c7a-b37d-8b1ded99b75c',
     imageUrl: `${process.env.PUBLIC_URL}/images/Renewable_Energy.png`
+  },
+   {
+    title: 'India’s Chemical Leap: Vision 2040 for Self-Reliance and Export Power',
+    summary: 'A roadmap for reducing imports and making India a global chemical export hub by 2040.',
+    wikiUrl: 'https://chatgpt.com/s/dr_688f0f2b9e788191bedf22d8a450f9b3',
+    podcastUrl: 'https://notebooklm.google.com/notebook/e06c3e3e-5765-4d2f-87aa-f804b1953b4b',
+    imageUrl: `${process.env.PUBLIC_URL}/images/India_Chemical_Trade.png`
   }
 ];
 
